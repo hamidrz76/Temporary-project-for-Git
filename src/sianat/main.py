@@ -12,3 +12,5 @@ def add(a: int, b: int):
     """
     print(a + b)
 
+class Hamid:
+    pass
